@@ -1,1 +1,1 @@
-# Hospital-Project
+# Hospital-Project: Here I am looking into the different factors that affect the Case Mix Index. In looking at those factors we look at permutations, clusters, as well as the final product, a tableau dashboard.
